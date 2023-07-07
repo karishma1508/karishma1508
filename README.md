@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in **Data Analytics and Data Science**.
 - 🌱 I’m currently learning **Machine Learning**.
-- 💞️ I’m looking to collaborate on different projects.
+- I’m looking to collaborate on different projects.
 - 📫 How to reach me :-
 - **Linkdein**- https://www.linkedin.com/in/karishma-khandelwal-4a384a1aa
 - **Email Id**- karishmakhandelwal15@gmail.com
